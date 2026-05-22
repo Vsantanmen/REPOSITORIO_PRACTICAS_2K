@@ -1,6 +1,0 @@
-En esta carpeta, encontraras todos los ejercicios entregables de PYTHON con sus instrucciones.
-Sólo tendrás que ir ejercicio por ejercicio, y sen entregarán todos al final de la evaluación en un fichero único con tu Nombre y apellidos.
-
-Forma de entrega:
-Abrir cada archivo .py y en cada ejercicio viene indicado qué es lo que hay que hacer. Guardar, y entregar el archivo.
-
