@@ -1,0 +1,24 @@
+Práctica 3: GITHUB CODESPACES
+
+En esta práctica, aprenderas a manejar el compilador de VScode online, o mejor dicho, el CODE SPACE o GITHUB CODESPACES, que te permitirá trabajar simultáneamente con tu archivo en remoto.
+Lo primero que tienes que saber, es que CODESPACES, es un entorno de desarrollo en la nube que genera un espacio de trabajo con extensión VScode desde un repositorio en GITHUB.
+
+¿Qué significa esto? Pues que ya nos vamos a poder olvidar de VScode (que tenemos instalado en nuestro PC), y ya solo vamos a trabajar con este entorno de desarrollo en la nube desde el repositorio y viceversa.
+
+Para ello, vamos a volver a clonar el repositorio pero esta vez no sobre VScode local sino hacia CODE SPACE online.
+
+Para ello, cogeras el repositorio y le darás al comando en verde CODE.
+
+Le darás a la pestañita de desplegar, y veras que tienes dos posibilidades, clonarlo en local (copiar URL o descargarlo en formato .ZIP) o la posibilidad de clonarlo creando un espacio en CODESPACES para este repositorio.
+
+Una vez hagas esto, abrirás el repositorio en un archivo virtual de CODESPACES y podrás empezar a trabajar.
+
+Veras que tienes las mismas funciones que el VScode con el que ya has trabajado.
+
+Lo único que vas a tener que hacer en esta práctica si ya has llegado hasta aquí sin muchos apuros es lo siguiente: 
+
+Escribe debajo de este texto la siguiente frase: "HE ENTENDIDO LO QUE ES UN REPOSITORIO REMOTO, SE CLONARLO EN LOCAL, SE MODIFICARLO Y SE COMO ACTUALIZAR LAS MODIFICACIONES EN EL REPOSITORIO REMOTO".
+
+Después de esto, habrás finalizado esta práctica.
+
+Recuerda siempre utilizar la cadena de órdenes con GIT que tienes que poner para subir las modificaciones al remoto.
